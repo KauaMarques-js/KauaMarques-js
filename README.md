@@ -82,10 +82,14 @@ Gosto de transformar necessidades reais em aplicações simples de usar e bem es
 ## Atividade no GitHub
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=KauaMarques-js&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="160" alt="Estatísticas públicas do GitHub" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaMarques-js&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Linguagens mais usadas nos repositórios públicos" />
-
+  <a href="https://github.com/KauaMarques-js?tab=repositories">
+    <img src="assets/github-repos.svg" width="48%" alt="Visão geral: 22 repositórios públicos em novembro de 2026" />
+  </a>
+  <a href="https://github.com/KauaMarques-js?tab=repositories">
+    <img src="assets/github-stack.svg" width="48%" alt="Tecnologias utilizadas nos projetos: TypeScript, JavaScript, C#, .NET, React, Next.js, SQLite e Node.js" />
+  </a>
+  <p><sub>Os cards acima ficam hospedados neste repositório. A quantidade é um retrato de novembro de 2026, não um contador em tempo real.</sub></p>
+  <p><a href="https://github.com/KauaMarques-js?tab=overview"><strong>Ver minhas contribuições e atividades diretamente no GitHub</strong></a></p>
 </div>
 
 ---
