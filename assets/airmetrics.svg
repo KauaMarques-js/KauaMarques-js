@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="460" viewBox="0 0 900 460" role="img" aria-label="AirMetrics - aplicativo de qualidade do ar premiado no NASA Space Apps Cuiabá 2025">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B1628"/><stop offset="1" stop-color="#123B63"/></linearGradient>
+<linearGradient id="ocean" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#153C7E"/><stop offset="1" stop-color="#166F85"/></linearGradient>
+<linearGradient id="a" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#60B5FF"/><stop offset="1" stop-color="#82E2C0"/></linearGradient>
+</defs>
+<rect width="900" height="460" rx="26" fill="url(#bg)"/>
+<circle cx="717" cy="226" r="154" fill="url(#ocean)" stroke="#5099CE" stroke-width="2"/>
+<path d="M641 117c31-16 54 7 53 35 0 23 17 30 31 22 33-19 55-3 51 27-3 31-47 37-51 69-2 26-19 44-39 42-29-2-23-32-48-46-16-9-42-22-38-48 4-32 22-36 41-50z" fill="#2CA48C" opacity=".68"/>
+<path d="M742 320c31-3 56-25 83-52 15-17 25-31 32-48-1 72-58 136-131 154-19 5-42 7-58 4 28-26 33-51 74-58z" fill="#37BA9E" opacity=".6"/>
+<path d="M559 226c57-26 250-26 315 0M717 72c-48 85-48 225 0 308M717 72c52 94 52 224 0 308" fill="none" stroke="#93C9EE" opacity=".23" stroke-width="2"/>
+<circle cx="717" cy="226" r="173" fill="none" stroke="#76C9EA" opacity=".4" stroke-width="2" stroke-dasharray="10 13"/>
+<circle cx="717" cy="226" r="189" fill="none" stroke="#76C9EA" opacity=".14" stroke-width="2"/>
+<circle cx="684" cy="192" r="12" fill="#87F5C0"/><circle cx="684" cy="192" r="24" fill="none" stroke="#87F5C0" opacity=".5" stroke-width="4"/>
+<circle cx="773" cy="267" r="9" fill="#F8CB65"/><circle cx="773" cy="267" r="24" fill="none" stroke="#F8CB65" opacity=".5" stroke-width="4"/>
+<rect x="55" y="55" width="441" height="355" rx="16" fill="#101E34" stroke="#304A66" stroke-width="2"/>
+<rect x="84" y="86" width="7" height="30" rx="3" fill="url(#a)"/>
+<text x="108" y="113" fill="#EDF7FF" font-size="49" font-weight="700" font-family="Arial,sans-serif">AirMetrics</text>
+<text x="85" y="155" fill="#9EC7E5" font-size="18" font-family="Arial,sans-serif">AIR QUALITY INTELLIGENCE</text>
+<path d="M84 178h382" stroke="#2B465F" stroke-width="2"/>
+<text x="85" y="216" fill="#D7EAF6" font-size="20" font-family="Arial,sans-serif">Monitoramento da qualidade do ar</text>
+<rect x="84" y="241" width="382" height="59" rx="9" fill="#1B344A"/>
+<text x="103" y="278" fill="#8CE7C6" font-size="20" font-family="Arial,sans-serif" font-weight="700">AQI</text>
+<rect x="164" y="263" width="257" height="12" rx="6" fill="#264B60"/>
+<rect x="164" y="263" width="154" height="12" rx="6" fill="url(#a)"/>
+<text x="85" y="334" fill="#9AC3DE" font-size="18" font-family="Arial,sans-serif">React Native · Expo · TypeScript</text>
+<rect x="84" y="354" width="381" height="36" rx="7" fill="#203F61"/>
+<text x="103" y="379" fill="#E3F1FF" font-size="16" font-weight="700" font-family="Arial,sans-serif">🥈 NASA Space Apps Cuiabá 2025</text>
+</svg>
