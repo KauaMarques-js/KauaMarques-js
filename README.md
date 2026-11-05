@@ -25,7 +25,7 @@ Gosto de transformar necessidades reais em aplicações simples de usar e bem es
 - 💻 **Interesses:** aplicações web, backend, integrações e experiência do usuário.
 - 🛠️ **Experiência:** suporte a software fiscal (Spedy) e TI em radiocomunicação (SESP/MT).
 - 🥈 **Conquista:** 2º lugar no NASA Space Apps Challenge Cuiabá 2025, com o projeto AirMetrics.
-- 🌱 **Hackathons:** AgroPulse (CopernicusLAC Panama 2026) e Vaultix Security (Hacker Hero 2026).
+- 🌱 **Projetos de inovação e hackathons:** AgroPulse (CopernicusLAC Panama 2026), Vaultix Security (Hacker Hero 2026) e Incluvia (Sebrae Supernova 2026).
 
 ## Tecnologias
 
@@ -102,6 +102,22 @@ Gosto de transformar necessidades reais em aplicações simples de usar e bem es
   <p><a href="https://github.com/KauaMarques-js/Vaultix-Security"><strong>💻 Ver projeto e documentação</strong></a></p>
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+  <a href="https://youtu.be/mLNuLD4Fj-w?si=gq2XPhh7pxdNiW0S">
+    <img src="assets/incluvia.svg" width="100%" alt="Capa do Incluvia: clique para assistir ao vídeo de apresentação da ideia no YouTube" />
+  </a>
+  <p align="center"><a href="https://youtu.be/mLNuLD4Fj-w?si=gq2XPhh7pxdNiW0S"><strong>▶️ Assistir ao vídeo de apresentação</strong></a></p>
+</td>
+<td width="50%" valign="top">
+  <h3>♿ Incluvia</h3>
+  <p>Plataforma para auditorias de acessibilidade digital e análise de possíveis vieses contra pessoas com deficiência em respostas de IA. Organiza achados, revisão humana e relatórios para apoiar a identificação de barreiras e do capacitismo algorítmico.</p>
+  <p><strong>Next.js · TypeScript · Prisma · SQLite · Playwright · axe-core</strong></p>
+  <p>🚀 <strong>Sebrae Supernova 2026</strong> — projeto de inovação e apresentação da ideia em vídeo.</p>
+  <p><a href="https://youtu.be/mLNuLD4Fj-w?si=gq2XPhh7pxdNiW0S"><strong>🎥 Ver pitch no YouTube</strong></a></p>
+  <p><em>Repositório privado · Demonstração pública em vídeo</em></p>
+</td>
+</tr>
 </table>
 
 <details>
@@ -120,7 +136,7 @@ Gosto de transformar necessidades reais em aplicações simples de usar e bem es
 
 <div align="center">
   <a href="https://github.com/KauaMarques-js?tab=repositories">
-    <img src="assets/github-repos.svg" width="48%" alt="Visão geral: 25 repositórios públicos em novembro de 2026" />
+    <img src="assets/github-repos.svg" width="48%" alt="Visão geral: 26 repositórios públicos em novembro de 2026" />
   </a>
   <a href="https://github.com/KauaMarques-js?tab=repositories">
     <img src="assets/github-stack.svg" width="48%" alt="Tecnologias utilizadas nos projetos: TypeScript, JavaScript, C#, .NET, React, Next.js, SQLite e Node.js" />
