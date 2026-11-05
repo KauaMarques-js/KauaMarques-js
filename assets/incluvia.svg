@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="460" viewBox="0 0 900 460" role="img" aria-label="Incluvia — plataforma de auditoria de acessibilidade e capacitismo algorítmico. Clique para assistir ao vídeo da apresentação.">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#121426"/><stop offset=".55" stop-color="#22234B"/><stop offset="1" stop-color="#163C52"/></linearGradient>
+<linearGradient id="glow" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#99A7FF"/><stop offset="1" stop-color="#5DE1C9"/></linearGradient>
+</defs>
+<rect width="900" height="460" rx="24" fill="url(#bg)"/>
+<circle cx="723" cy="205" r="170" fill="#9286FF" opacity=".055"/>
+<rect x="42" y="45" width="816" height="367" rx="16" stroke="#65708F" stroke-width="2" fill="none" opacity=".55"/>
+<rect x="65" y="72" width="7" height="32" rx="3" fill="url(#glow)"/>
+<text x="93" y="104" font-family="Arial,sans-serif" font-weight="700" font-size="52" fill="#F6F6FF">INCLUVIA</text>
+<text x="66" y="147" font-family="Arial,sans-serif" font-size="19" fill="#B7C0E6">ACESSIBILIDADE + INTELIGÊNCIA ARTIFICIAL</text>
+<path d="M65 170H479" stroke="#465A79" stroke-width="2"/>
+<text x="66" y="210" font-family="Arial,sans-serif" font-size="21" font-weight="600" fill="#E9F0FF">Auditoria de sites</text>
+<text x="66" y="246" font-family="Arial,sans-serif" font-size="21" font-weight="600" fill="#E9F0FF">Análise de vieses algorítmicos</text>
+<text x="66" y="282" font-family="Arial,sans-serif" font-size="20" fill="#B7C0E6">Next.js · TypeScript · Playwright · axe-core</text>
+<rect x="64" y="320" width="420" height="59" rx="10" fill="#33437A" stroke="#667DC3"/>
+<circle cx="94" cy="349" r="18" fill="#D6E6FF"/>
+<path d="M90 339V359L104 349Z" fill="#293A70"/>
+<text x="123" y="356" font-family="Arial,sans-serif" font-weight="700" font-size="18" fill="#F4F8FF">ASSISTIR PITCH · SEBRAE SUPERNOVA</text>
+<g transform="translate(580 113)">
+<rect x="0" y="27" width="245" height="217" rx="17" fill="#182D47" stroke="#7686BD" stroke-width="3"/>
+<rect x="20" y="48" width="205" height="31" rx="5" fill="#35476A"/>
+<circle cx="40" cy="63" r="6" fill="#6DE5D0"/><rect x="56" y="59" width="116" height="8" rx="4" fill="#B2C7F4"/>
+<rect x="20" y="100" width="97" height="123" rx="9" fill="#273E61"/>
+<path d="M45 195V148M71 195V129M96 195V163" stroke="#8DCAF5" stroke-width="15" stroke-linecap="round"/>
+<rect x="132" y="100" width="93" height="123" rx="9" fill="#273E61"/>
+<circle cx="179" cy="128" r="17" fill="none" stroke="#A2DBD3" stroke-width="5"/>
+<path d="M153 177L171 190L204 151" fill="none" stroke="#9BEECC" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="123" cy="135" r="23" fill="#C3D1FE" stroke="#5A7DAA" stroke-width="4"/>
+<path d="M116 123V147L133 135Z" fill="#243B63"/>
+</g>
+</svg>
