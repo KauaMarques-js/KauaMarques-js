@@ -25,6 +25,7 @@ Gosto de transformar necessidades reais em aplicações simples de usar e bem es
 - 💻 **Interesses:** aplicações web, backend, integrações e experiência do usuário.
 - 🛠️ **Experiência:** suporte a software fiscal (Spedy) e TI em radiocomunicação (SESP/MT).
 - 🥈 **Conquista:** 2º lugar no NASA Space Apps Challenge Cuiabá 2025, com o projeto AirMetrics.
+- 🌱 **Hackathons:** desenvolvimento do AgroPulse para o 3º CopernicusLAC Panama Hackathon 2026.
 
 ## Tecnologias
 
@@ -65,6 +66,20 @@ Gosto de transformar necessidades reais em aplicações simples de usar e bem es
   <p><em>Código privado · Site público</em></p>
 </td>
 </tr>
+<tr>
+<td valign="top" width="50%">
+  <a href="https://github.com/KauaMarques-js/AgroPulse">
+    <img src="assets/agropulse.svg" width="100%" alt="Capa ilustrada do AgroPulse, com satélites e monitoramento agrícola" />
+  </a>
+</td>
+<td valign="top" width="50%">
+  <h3>🌱 <a href="https://github.com/KauaMarques-js/AgroPulse">AgroPulse</a></h3>
+  <p>Plataforma de apoio à decisão agrícola que propõe combinar observação da Terra, análise geoespacial e inteligência artificial para monitorar lavouras, riscos climáticos e prioridades de irrigação.</p>
+  <p><strong>Next.js · React · TypeScript · Tailwind CSS · Mapbox</strong></p>
+  <p>🛰️ <strong>3º CopernicusLAC Panama Hackathon 2026</strong> — Food Security Edition.</p>
+  <p><a href="https://github.com/KauaMarques-js/AgroPulse"><strong>💻 Ver projeto e documentação no GitHub</strong></a></p>
+</td>
+</tr>
 </table>
 
 <details>
@@ -83,7 +98,7 @@ Gosto de transformar necessidades reais em aplicações simples de usar e bem es
 
 <div align="center">
   <a href="https://github.com/KauaMarques-js?tab=repositories">
-    <img src="assets/github-repos.svg" width="48%" alt="Visão geral: 22 repositórios públicos em novembro de 2026" />
+    <img src="assets/github-repos.svg" width="48%" alt="Visão geral: 23 repositórios públicos em novembro de 2026" />
   </a>
   <a href="https://github.com/KauaMarques-js?tab=repositories">
     <img src="assets/github-stack.svg" width="48%" alt="Tecnologias utilizadas nos projetos: TypeScript, JavaScript, C#, .NET, React, Next.js, SQLite e Node.js" />
