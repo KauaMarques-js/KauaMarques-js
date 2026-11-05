@@ -3,11 +3,11 @@
 <img src="assets/hero-signature.svg" width="100%" alt="Kauã Marques — Full Stack Developer. Engenharia de software, produto e experiência do usuário." />
 
 <p>
-<a href="https://kauamarques.vercel.app"><strong>PORTFÓLIO ↗</strong></a>
+<a href="https://kauamarques.vercel.app"><strong>PORTFÓLIO </strong></a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/kauamqs"><strong>LINKEDIN ↗</strong></a>
+<a href="https://www.linkedin.com/in/kauamqs"><strong>LINKEDIN </strong></a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="https://github.com/KauaMarques-js?tab=repositories"><strong>REPOSITÓRIOS ↗</strong></a>
+<a href="https://github.com/KauaMarques-js?tab=repositories"><strong>REPOSITÓRIOS </strong></a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
 <a href="mailto:kaua.marquesal@gmail.com"><strong>EMAIL ↗</strong></a>
 </p>
