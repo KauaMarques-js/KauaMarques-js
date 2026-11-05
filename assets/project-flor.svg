@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="350" viewBox="0 0 720 350" role="img" aria-label="FLOR ÁRABE: DIGITAL PERFUMERY">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0C1420"/><stop offset="1" stop-color="#142436"/></linearGradient>
+<pattern id="lines" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#CFB184" stroke-width=".7" opacity=".11"/></pattern></defs>
+<rect width="720" height="350" rx="16" fill="url(#bg)"/>
+<rect x="1.5" y="1.5" width="717" height="347" rx="14" stroke="#31465A" stroke-width="2" fill="none"/>
+<rect x="421" y="15" width="280" height="319" fill="url(#lines)"/>
+<path d="M27 62h661M27 292h661" stroke="#34485D" stroke-width="1.5"/>
+<circle cx="37" cy="36" r="5" fill="#CFB184"/>
+<text x="55" y="41" fill="#B3C6D6" font-family="monospace" font-size="16" letter-spacing="1.4">02 / PRODUCT</text>
+<text x="684" y="41" fill="#7792A6" text-anchor="end" font-family="monospace" font-size="14">K / M.</text>
+<text x="28" y="138" fill="#EFF5FC" font-family="Arial,Helvetica,sans-serif" font-size="42" font-weight="800" letter-spacing="-1">FLOR ÁRABE</text>
+<rect x="28" y="155" width="52" height="4" rx="2" fill="#CFB184"/>
+<text x="29" y="195" fill="#A9BCCB" font-family="monospace" font-size="15" letter-spacing="1.2">DIGITAL PERFUMERY</text>
+<text x="29" y="320" fill="#CFB184" font-family="monospace" font-size="17">NEXT.JS  /  TYPESCRIPT</text>
+<g transform="translate(483 45)"><path d="M5 233V93C5 43 41 10 105 10s100 33 100 83v140" fill="none" stroke="#7A6550" stroke-width="2"/><path d="M44 226h123" stroke="#836F56" stroke-width="2"/><rect x="75" y="67" width="60" height="48" rx="6" fill="#2B271F" stroke="#CFB184" stroke-width="3"/><rect x="90" y="49" width="30" height="19" rx="4" fill="#CFB184"/><rect x="42" y="111" width="126" height="142" rx="18" fill="#352C29" stroke="#CFB184" stroke-width="4"/><rect x="58" y="153" width="94" height="64" rx="3" fill="#231F20" stroke="#8D775E"/><path d="M59 130h90" stroke="#7B6650"/><text x="105" y="177" text-anchor="middle" fill="#E6D7BA" font-family="Georgia,serif" font-size="12">FLOR</text><text x="105" y="195" text-anchor="middle" fill="#E6D7BA" font-family="Georgia,serif" font-size="16">ÁRABE</text></g></svg>
