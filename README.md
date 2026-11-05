@@ -25,7 +25,7 @@ Gosto de transformar necessidades reais em aplicações simples de usar e bem es
 - 💻 **Interesses:** aplicações web, backend, integrações e experiência do usuário.
 - 🛠️ **Experiência:** suporte a software fiscal (Spedy) e TI em radiocomunicação (SESP/MT).
 - 🥈 **Conquista:** 2º lugar no NASA Space Apps Challenge Cuiabá 2025, com o projeto AirMetrics.
-- 🌱 **Hackathons:** desenvolvimento do AgroPulse para o 3º CopernicusLAC Panama Hackathon 2026.
+- 🌱 **Hackathons:** AgroPulse (CopernicusLAC Panama 2026) e Vaultix Security (Hacker Hero 2026).
 
 ## Tecnologias
 
@@ -80,6 +80,28 @@ Gosto de transformar necessidades reais em aplicações simples de usar e bem es
   <p><a href="https://github.com/KauaMarques-js/AgroPulse"><strong>💻 Ver projeto e documentação no GitHub</strong></a></p>
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+  <a href="https://github.com/KauaMarques-js/AirMetrics">
+    <img src="assets/airmetrics.svg" width="100%" alt="AirMetrics: monitoramento da qualidade do ar e observação ambiental" />
+  </a>
+  <h3>🛰️ <a href="https://github.com/KauaMarques-js/AirMetrics">AirMetrics</a></h3>
+  <p>Aplicativo mobile para monitoramento e educação sobre qualidade do ar, com mapas interativos, previsões, alertas e dados ambientais simulados.</p>
+  <p><strong>React Native · Expo · TypeScript · React Native Maps</strong></p>
+  <p>🥈 <strong>2º lugar no NASA Space Apps Challenge Cuiabá 2025</strong> — projeto desenvolvido em equipe.</p>
+  <p><a href="https://github.com/KauaMarques-js/AirMetrics"><strong>💻 Ver aplicativo e documentação</strong></a></p>
+</td>
+<td width="50%" valign="top">
+  <a href="https://github.com/KauaMarques-js/Vaultix-Security">
+    <img src="assets/vaultix-security.svg" width="100%" alt="Vaultix Security: projeto de prevenção e educação sobre segurança digital" />
+  </a>
+  <h3>🛡️ <a href="https://github.com/KauaMarques-js/Vaultix-Security">Vaultix Security</a></h3>
+  <p>MVP mobile preventivo e educativo para ajudar crianças, adolescentes e responsáveis a reconhecer riscos digitais e encontrar canais seguros de orientação e apoio.</p>
+  <p><strong>React Native · Expo · TypeScript</strong></p>
+  <p>🔐 <strong>Hacker Hero 2026</strong> — foco em privacidade, proteção de dados, LGPD e ECA.</p>
+  <p><a href="https://github.com/KauaMarques-js/Vaultix-Security"><strong>💻 Ver projeto e documentação</strong></a></p>
+</td>
+</tr>
 </table>
 
 <details>
@@ -92,13 +114,13 @@ Gosto de transformar necessidades reais em aplicações simples de usar e bem es
 
 - **[Meu portfólio](https://github.com/KauaMarques-js/Portfolio-Kaua-Marques)** — site pessoal desenvolvido com Next.js e TypeScript. **[Visitar](https://kauamarques.vercel.app)**.
 - **[ADIA Framework — landing page](https://github.com/KauaMarques-js/landing-page-ADIA-FRAMEWORK)** — apresentação de uma proposta educacional voltada à aprendizagem adaptativa com IA.
-- **[AirMetrics](https://github.com/LucasEstrela-FullStack/AirMetrics)** — projeto em equipe premiado com o 2º lugar no NASA Space Apps Challenge Cuiabá 2025.
+
 
 ## Atividade no GitHub
 
 <div align="center">
   <a href="https://github.com/KauaMarques-js?tab=repositories">
-    <img src="assets/github-repos.svg" width="48%" alt="Visão geral: 23 repositórios públicos em novembro de 2026" />
+    <img src="assets/github-repos.svg" width="48%" alt="Visão geral: 25 repositórios públicos em novembro de 2026" />
   </a>
   <a href="https://github.com/KauaMarques-js?tab=repositories">
     <img src="assets/github-stack.svg" width="48%" alt="Tecnologias utilizadas nos projetos: TypeScript, JavaScript, C#, .NET, React, Next.js, SQLite e Node.js" />
