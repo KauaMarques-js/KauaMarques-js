@@ -8,6 +8,8 @@
 <a href="https://www.linkedin.com/in/kauamqs"><strong>LINKEDIN ↗</strong></a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
 <a href="https://github.com/KauaMarques-js?tab=repositories"><strong>REPOSITÓRIOS ↗</strong></a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="mailto:kaua.marquesal@gmail.com"><strong>EMAIL ↗</strong></a>
 </p>
 
 <sub>Software com propósito. Design com intenção. Código que resolve.</sub>
@@ -63,12 +65,12 @@ Projetos independentes e experiências em hackathons. Cada capa leva ao reposit�
 </tr>
 <tr>
 <td width="50%" valign="top">
-  <a href="https://youtu.be/mLNuLD4Fj-w?si=gq2XPhh7pxdNiW0S"><img src="assets/project-incluvia.svg" width="100%" alt="Incluvia: capa sobre acessibilidade digital e auditoria de respostas de IA; clique para assistir ao vídeo" /></a>
-  <h3>Incluvia</h3>
+  <a href="https://github.com/KauaMarques-js/Incluvia"><img src="assets/project-incluvia.svg" width="100%" alt="Incluvia: capa sobre acessibilidade digital e auditoria de respostas de IA; clique para ver o código" /></a>
+  <h3><a href="https://github.com/KauaMarques-js/Incluvia">Incluvia</a></h3>
   <p>Auditoria de acessibilidade digital e análise de possíveis vieses contra pessoas com deficiência em sistemas de IA, com revisão humana dos achados.</p>
   <p><code>Next.js</code> <code>Prisma</code> <code>SQLite</code> <code>axe-core</code></p>
   <p><strong>Sebrae Supernova 2026</strong></p>
-  <p><a href="https://youtu.be/mLNuLD4Fj-w?si=gq2XPhh7pxdNiW0S"><strong>▶ Assistir ao vídeo de apresentação →</strong></a> · <sub>Código privado</sub></p>
+  <p><a href="https://github.com/KauaMarques-js/Incluvia"><strong>Explorar código →</strong></a> · <a href="https://youtu.be/mLNuLD4Fj-w?si=gq2XPhh7pxdNiW0S"><strong>▶ Assistir à apresentação →</strong></a></p>
 </td>
 <td width="50%" valign="top">
   <a href="https://github.com/KauaMarques-js/Vaultix-Security"><img src="assets/project-vaultix.svg" width="100%" alt="Vaultix Security: capa com escudo de proteção digital" /></a>
@@ -98,6 +100,12 @@ Projetos independentes e experiências em hackathons. Cada capa leva ao reposit�
 
 - **[Meu portfólio](https://kauamarques.vercel.app)** — site pessoal com projetos, trajetória e contato. [Código-fonte](https://github.com/KauaMarques-js/Portfolio-Kaua-Marques).
 - **[ADIA Framework](https://github.com/KauaMarques-js/landing-page-ADIA-FRAMEWORK)** — landing page de uma proposta educacional centrada em aprendizagem adaptativa.
+
+## 05 / Contato
+
+**E-mail:** [kaua.marquesal@gmail.com](mailto:kaua.marquesal@gmail.com)  
+**Telefone:** [(65) 99915-7088](tel:+5565999157088)  
+**LinkedIn:** [linkedin.com/in/kauamqs](https://www.linkedin.com/in/kauamqs)
 
 ---
 
