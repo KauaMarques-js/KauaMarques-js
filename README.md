@@ -9,7 +9,7 @@
 &nbsp;&nbsp;·&nbsp;&nbsp;
 <a href="https://github.com/KauaMarques-js?tab=repositories"><strong>REPOSITÓRIOS </strong></a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="mailto:kaua.marquesal@gmail.com"><strong>EMAIL ↗</strong></a>
+<a href="mailto:kaua.marquesal@gmail.com"><strong>EMAIL </strong></a>
 </p>
 
 <sub>Software com propósito. Design com intenção. Código que resolve.</sub>
