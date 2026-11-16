@@ -28,6 +28,20 @@ Desenvolvo aplicações web e mobile, integrações e interfaces com foco em **p
 
 Projetos independentes e experiências em hackathons. Cada capa leva ao repositório público ou à demonstração disponível.
 
+### Projeto mais recente · NASA Space Apps 2026
+
+**[SULCO — Ouça a diferença](https://sulcoo.vercel.app/)**
+
+Dados da Terra explorados por som, gráficos e texto, com acessibilidade no centro da experiência. Desenvolvido para o desafio **The Earth Information Jukebox**, do NASA Space Apps Challenge 2026.
+
+Navegação por teclado, alternativas textuais, tabelas acessíveis, alto contraste, redução de movimento e apoio em Libras. Em inglês: *“Hear the changes of our planet.”*
+
+**Equipe:** Arthur Loni, Carlos Eduardo, Kauã Marques Almeida, Adrielly Andrade, Lucas Abreu Estrela e Mauricio Abreu.
+
+`Next.js` · `React` · `TypeScript` · `Web Audio API`
+
+[Visitar o SULCO](https://sulcoo.vercel.app/) · [Código-fonte](https://github.com/KauaMarques-js/sulco)
+
 <table>
 <tr>
 <td width="50%" valign="top">
